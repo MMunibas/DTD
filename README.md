@@ -8,7 +8,7 @@ python3 and TensorFlow
 
 **Data**
 
-The data folder contains files for 9 sets of reactant and product state distributions from Set1 that were obtained by QCT simulations. The corresponding sets of temperatures <img src="https://render.githubusercontent.com/render/math?math=T_{trans}">, <img src="https://render.githubusercontent.com/render/math?math=T_{rovib}"> can be read from the tinput.dat file.
+The data folder contains files for 9 sets of reactant and product state distributions from Set1 that were obtained by QCT simulations. The corresponding sets of temperatures <img src="https://render.githubusercontent.com/render/math?math=T_{trans}">, <img src="https://render.githubusercontent.com/render/math?math=T_{rovib}"> can be read from the file *tinput.dat*.
 
 **Prepare input and reference values for training a neural network**
 
