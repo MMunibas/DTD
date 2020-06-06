@@ -12,7 +12,7 @@ The data folder contains files for 9 sets of reactant and product state distribu
 
 **Prepare input and reference values for training a neural network**
 
-Run the *generate_input_and_reference.py code* located in the folder *data_preprocessing* to generate the files containing the input and reference values as well as a PDF with the corresponding plots, based on the 9 data sets from the folder *data*.
+Run the *generate_input_and_reference.py* code located in the folder *data_preprocessing* to generate the files containing the input and reference values as well as a PDF with the corresponding plots, based on the 9 data sets from the folder *data*.
 
 **Train a neural network**
 
