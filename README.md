@@ -32,4 +32,4 @@ After finishing with the training, edit the print_coeff.py code in the training 
 
 Edit the evaluation.py code in the evaluation folder to specify whether and what accuracy measures RMSD, R^2 should be calculated. Then run the code to obtain a file containing the desired accuracy measures, as well as a PDF with the corresponding plots for data sets from the data folder.
 
-**Cite as** Julian Arnold, Debasish Koner, Silvan Kaser, Narendra Singh, Raymond J. Bemish, and Markus Meuwly, arXiv:2005.14463 [physics.chem-ph]
+**Cite as** Julian Arnold, Debasish Koner, Silvan Kaeser, Narendra Singh, Raymond J. Bemish, and Markus Meuwly, arXiv:2005.14463 [physics.chem-ph]
