@@ -4,7 +4,7 @@ Construct a distribution-to-distribution (DTD) model for a reactive atom-diatom 
 
 **Requirements**
 
-python3 and TensorFlow
+python3, TensorFlow and matplotlib
 
 **Data**
 
