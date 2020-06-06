@@ -14,7 +14,7 @@ The data folder contains files for 9 sets of reactant and product state distribu
 
 Run the generate_input_and_reference.py code located in the data_preprocessing folder to generate the files containing the input and reference values as well as a PDF with the corresponding plots, based on the 9 data sets from the data folder.
 
-**Training a neural network**
+**Train a neural network**
 
 The training folder already contains a file with input and reference values that were generated using the generate_input_and_reference.py code considering the complete Set1, with N_tot = 3698 and N_test = 98.
 
@@ -28,7 +28,7 @@ After finishing with the training, edit the print_coeff.py code in the training 
 
 `python print_coeff.py 3000 600 11 2000 500`
 
-**Constructing the predicted product state distributions**
+**Construct the predicted product state distributions**
 
 Edit the evaluation.py code in the evaluation folder to specify whether and what accuracy measures RMSD, R^2 should be calculated. Then run the code to obtain a file containing the desired accuracy measures, as well as a PDF with the corresponding plots for data sets from the data folder.
 
