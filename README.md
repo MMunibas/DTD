@@ -1,6 +1,6 @@
 # DTD
 
-Construct a distribution-to-distribution (DTD) model for a reactive atom-diatom collision system. Here, we consider a grid-based DTD model for data from Set1.
+Construct a distribution-to-distribution (DTD) model for a reactive atom-diatom collision system. Here, we consider a grid-based DTD model for data from Set1 in reference arXiv:2005.14463.
 
 **Requirements**
 
