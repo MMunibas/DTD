@@ -30,6 +30,6 @@ After finishing with the training, edit the code *print_coeff.py* in the folder 
 
 **Construct the predicted product state distributions**
 
-Edit the code evaluation.py* in the folder *evaluation* to specify whether and what accuracy measures (RMSD, <img src="https://render.githubusercontent.com/render/math?math=R^{2}">) should be calculated. Then run the code to obtain a file containing the desired accuracy measures, as well as a PDF with the corresponding plots for data sets from the folder *data*.
+Edit the code *evaluation.py* in the folder *evaluation* to specify whether and what accuracy measures (RMSD, <img src="https://render.githubusercontent.com/render/math?math=R^{2}">) should be calculated. Then run the code to obtain a file containing the desired accuracy measures, as well as a PDF with the corresponding plots for data sets from the folder *data*.
 
 **Cite as** Julian Arnold, Debasish Koner, Silvan Kaeser, Narendra Singh, Raymond J. Bemish, and Markus Meuwly, arXiv:2005.14463 [physics.chem-ph]
