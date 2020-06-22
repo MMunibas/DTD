@@ -286,7 +286,7 @@ for i in test_indices:
 
     # --------------------------------------------------------------------------
 
-    # similarly for the product relative translational energy distributions
+    # similarly for the product vibrational state distributions
 
     x, p = np.loadtxt('../data/pv' + str(i) + '.dat', unpack=True)
 
@@ -355,7 +355,7 @@ for i in test_indices:
 
     # --------------------------------------------------------------------------
 
-    # similarly for the product relative translational energy distributions
+    # similarly for the product rotational state distributions
 
     x, p = np.loadtxt('../data/pj' + str(i) + '.dat', unpack=True)
 
